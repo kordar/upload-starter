@@ -22,7 +22,7 @@ type UploadModule struct {
 }
 
 func (m UploadModule) Name() string {
-	return "upload"
+	return "upload_starter"
 }
 
 func (m UploadModule) Close() {
